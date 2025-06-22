@@ -1,0 +1,44 @@
+{
+  "configId": {
+    "id": "2e9a1bb8-6ea1-43dd-93d6-0d9a697494b9"
+  },
+  "scanType": {
+    "type": 4,
+    "name": "Black Duck SCA"
+  },
+  "blackDuckConfig": {
+    "installationLocation": {
+      "source": {
+        "type": 8
+      }
+    },
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    },
+    "configFilePath": {
+      "source": {
+        "type": 8
+      }
+    },
+    "searchDepth": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "bridgeConfig": {},
+  "buildConfig": {},
+  "workingDirectory": {
+    "value": "C:\\Users\\AlexPolischuk\\Documents\\IdeaProjects\\alex-node",
+    "source": {
+      "type": 8
+    }
+  },
+  "path": {
+    "source": {
+      "type": 8
+    }
+  }
+}
